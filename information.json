@@ -1,0 +1,52 @@
+{
+
+    "serverName" : "Nyx Foundation",
+    "population" : 46,
+    "HROC" : [
+        "genuinelyHana",
+        "Outwatcher",
+        "Gayreth"
+    ],
+    "streamViewers" : [
+        "KitsunekoDes",
+        "Gayreth"
+    ],
+    "registeredMembers" : [
+        "MayaaFox",
+        "Gayreth",
+        "KitsunekoDes",
+        "Whacky",
+        "Aspect",
+        "505",
+        "Nebusoku",
+        "genuinelyHana"
+    ],
+    "Visitors" : [
+        "Yuila",
+        "Hayden",
+        "HOBBIZ"
+    ],
+    "Artist" : [
+        "Aspect",
+        "505",
+        "MayaaFox",
+        "Nebusoku"
+    ],
+    "Offline" : [
+        "Aspect",
+        "505",
+        "Nebusoku",
+        "HOBBIZ",
+        "Outwatcher"
+    ],
+    "Online" : [
+        "MayaaFox",
+        "Whacky",
+        "Yuila",
+        "Gayreth",
+        "KitsunekoDes",
+        "Hayden",
+        "genuinelyHana"
+    ]
+
+}
